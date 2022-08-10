@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FerencVigh/monster-rolodex/static/css/main.881d771e.css",
-    "main.js": "/FerencVigh/monster-rolodex/static/js/main.752fa897.js",
-    "static/js/787.9c9e86b6.chunk.js": "/FerencVigh/monster-rolodex/static/js/787.9c9e86b6.chunk.js",
-    "static/media/logo.svg": "/FerencVigh/monster-rolodex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/FerencVigh/monster-rolodex/index.html",
-    "main.881d771e.css.map": "/FerencVigh/monster-rolodex/static/css/main.881d771e.css.map",
-    "main.752fa897.js.map": "/FerencVigh/monster-rolodex/static/js/main.752fa897.js.map",
-    "787.9c9e86b6.chunk.js.map": "/FerencVigh/monster-rolodex/static/js/787.9c9e86b6.chunk.js.map"
+    "main.css": "/monster-rolodex/static/css/main.881d771e.css",
+    "main.js": "/monster-rolodex/static/js/main.b2c3795d.js",
+    "static/js/787.9c9e86b6.chunk.js": "/monster-rolodex/static/js/787.9c9e86b6.chunk.js",
+    "static/media/logo.svg": "/monster-rolodex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/monster-rolodex/index.html",
+    "main.881d771e.css.map": "/monster-rolodex/static/css/main.881d771e.css.map",
+    "main.b2c3795d.js.map": "/monster-rolodex/static/js/main.b2c3795d.js.map",
+    "787.9c9e86b6.chunk.js.map": "/monster-rolodex/static/js/787.9c9e86b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.881d771e.css",
-    "static/js/main.752fa897.js"
+    "static/js/main.b2c3795d.js"
   ]
 }
